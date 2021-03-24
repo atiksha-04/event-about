@@ -75,13 +75,15 @@ border-radius: 50%;
    }
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:300px){
   .about-section{
-    width: 40px;
+    height: 20px;
+    width: 10px;
     padding: 0;
   }
   .inner-container{
-    width: 40px;
+    height: 20px;
+    width: 10px;
    }
    }
 }
