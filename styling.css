@@ -75,7 +75,7 @@ border-radius: 50%;
    }
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:400px){
   .about-section{
     width: 40px;
     padding: 0;
